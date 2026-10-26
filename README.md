@@ -6,9 +6,7 @@ Built with **Appsmith, Supabase, PostgreSQL, and REST APIs**, this project demon
 
 ## Application Preview
 
-<p align="center">
-  <img src="Screenshot%202026-10-17%20194541.png" alt="Finished Goods Stock Management System Preview" width="100%" style="border-radius: 8px;">
-</p>
+![Finished Goods Stock Management System Preview](Screenshot%202026-10-17%20194541.png)
 
 ## Overview
 
