@@ -6,7 +6,7 @@ Built with **Appsmith, Supabase, PostgreSQL, and REST APIs**, this project demon
 
 ## Application Preview
 
-*Application screenshot coming soon.*
+![Finished Goods Stock Management System Preview](Screenshot%202026-10-17%20194541.png)
 
 ## Overview
 
